@@ -1,0 +1,31 @@
+html {
+  background-image: url(rainwall.jpg)
+}
+
+li a {
+ text-decoration: none;
+ font-family: cursive;
+}
+
+a {
+  color: white;
+  outline-color: white;
+  text-decoration: none
+}
+
+table{
+  color:white;
+}
+th {
+  color: white;
+}
+
+td {
+  text-align: center
+}
+
+td img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
