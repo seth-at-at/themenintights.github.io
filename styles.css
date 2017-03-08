@@ -13,13 +13,6 @@ a {
   text-decoration: none
 }
 
-table{
-  color:white;
-}
-th {
-  color: white;
-}
-
 td {
   text-align: center
 }
@@ -28,4 +21,22 @@ td img {
   height: 100px;
   width: 100px;
   border-radius: 100px;
+}
+
+.personal_taste {
+   position: relative;
+   top: -20px;
+   right: -1095px;
+}
+
+* {
+  color:white;
+}
+
+h3{
+  position: relative
+}
+
+ul {
+  position:relative
 }
